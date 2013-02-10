@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValueWebHelper", "ValueWebHelper\ValueWebHelper.csproj", "{53694C76-570A-4088-B1CF-EBC6213F9F9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValueHelper.WebTest", "ValueHelper.WebTest\ValueHelper.WebTest.csproj", "{FC461D19-ABD4-41FC-89AF-416C13A88414}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53694C76-570A-4088-B1CF-EBC6213F9F9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53694C76-570A-4088-B1CF-EBC6213F9F9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53694C76-570A-4088-B1CF-EBC6213F9F9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53694C76-570A-4088-B1CF-EBC6213F9F9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC461D19-ABD4-41FC-89AF-416C13A88414}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC461D19-ABD4-41FC-89AF-416C13A88414}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC461D19-ABD4-41FC-89AF-416C13A88414}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC461D19-ABD4-41FC-89AF-416C13A88414}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
